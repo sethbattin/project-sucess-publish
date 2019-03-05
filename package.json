@@ -1,0 +1,23 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "project success webserver",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethbattin/project-sucess-publish.git"
+  },
+  "author": "Seth Battin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sethbattin/project-sucess-publish/issues"
+  },
+  "homepage": "https://github.com/sethbattin/project-sucess-publish#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
